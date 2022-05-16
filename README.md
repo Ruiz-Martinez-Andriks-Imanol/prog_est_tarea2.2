@@ -1,8 +1,8 @@
 # prog_est_tarea2.2
-<p>Autor: Andriks Imanol Ruiz Martínez, Fecha: 10/02/2022 <br>
-Escuela: Universidad del Valle de Mexico Campus Villahermosa <br>
-Materia: Programación Estructurada <br>
-Ciclo: 01/2022</p>
+<p><b>Autor:</b> Andriks Imanol Ruiz Martínez, <b>Fecha:</b> 10/02/2022 <br>
+  <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa <br>
+  <b>Materia:</b> Programación Estructurada <br>
+  <b>Ciclo:</b> 01/2022</p>
 <br>
 <p>Este es un programa en Lenguaje C de la materia de Programación Estructurada<br>
 Muestra el uso de:
@@ -18,10 +18,10 @@ Muestra el uso de:
     </ul>
     </p>
 <br>
-Objetivo: Calcular el precio neto de los ejemplares de novelas y el número que se venderán.
+<b>Objetivo:</b> Calcular el precio neto de los ejemplares de novelas y el número que se venderán.
 <br>
 <br>
-<p>Breve descripción: 
+<p><b>Breve descripción:</b> 
 Es un programa para imprimir el precio neto de cada ejemplar de las novelas y el número de ejemplares que se venderán.
 <br>
 El programa imprime después las regalías en cada opción y la mejor opción que el autor puede escoger. Se deberá usar operadores lógicos como AND (&&) para algunas condicionales.
